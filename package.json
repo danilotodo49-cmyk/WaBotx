@@ -1,0 +1,14 @@
+{
+  "name": "wabotx",
+  "version": "0.1.0",
+  "description": "WaBotx v0.1 - Bot de WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "pino": "^9.6.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
